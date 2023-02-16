@@ -84,8 +84,8 @@ n = int(n)
 private, public = (d,n),(e,n)
 
 
-user = '124157027@sastra.ac.in'
-password = 'npxijznbuwvdmpwk'
+user = 'your mail'
+password = 'your password'
 host = 'imap.gmail.com'
 
 # Connect securely with SSL
