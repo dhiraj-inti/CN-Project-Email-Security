@@ -17,7 +17,7 @@ private, public = (d,n),(e,n)
 smtp = smtplib.SMTP('smtp.gmail.com', 587)
 smtp.ehlo()
 smtp.starttls()
-smtp.login('124157027@sastra.ac.in', 'hlgxyjzcxrcccrtr')
+smtp.login('your mail', 'password')
 
 msg = MIMEMultipart()
 msg['Subject'] = "Machine generated mail"
